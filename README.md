@@ -37,6 +37,6 @@ The dataset used in this project is sourced from [Kaggle's Fake News dataset](ht
 To get started, clone this repository and install the required dependencies:
 
 ```bash
-git clone https://github.com/yourusername/fake-news-detection.git
+git clone https://github.com/kavishagupta/fake-news-detection.git
 cd fake-news-detection
 pip install -r requirements.txt
