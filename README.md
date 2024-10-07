@@ -1,4 +1,4 @@
-# fake_news_detection
+
 # Fake News Detection System
 
 This repository contains a project for creating a Fake News Detection System using Machine Learning. The objective of this project is to classify news articles as real or fake based on their textual content.
