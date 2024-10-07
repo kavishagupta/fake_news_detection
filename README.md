@@ -41,27 +41,23 @@ git clone https://github.com/kavishagupta/fake-news-detection.git
 cd fake-news-detection
 pip install -r requirements.txt
 
-## Usage
+**Usage**
 To use this project:
 
 **Data Preprocessing**: Clean and preprocess the dataset.
-Model Training: Train your machine learning model using the provided scripts.
-Model Evaluation: Evaluate model performance with validation data.
-Prediction: Predict whether a news article is real or fake using the trained model.
+**Model Training**: Train your machine learning model using the provided scripts.
+**Model Evaluation**: Evaluate model performance with validation data.
+**Prediction**: Predict whether a news article is real or fake using the trained model.
 To run the application locally:
 
 bash
-Copy code
 python app.py
+
 After running, you can access the application by navigating to http://127.0.0.1:5000 in your web browser.
 
-Contributing
+## **Contributing**
 We welcome contributions! Please fork the repository and submit a pull request with your improvements.
 
-License
+## **License**
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
-markdown
-Copy code
-
-Now, **Usage**, **Contributing**, and **License** are marked as top-level headings (`#`).
