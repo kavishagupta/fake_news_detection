@@ -1,17 +1,16 @@
 
 # Fake News Detection System
 
-This repository contains a project for creating a Fake News Detection System using Machine Learning. The objective of this project is to classify news articles as real or fake based on their textual content.
+This repository contains a project to create a fake news detection system using machine learning. The objective of this project is to classify news articles as real or fake based on their textual content.
 
 ## Table of Contents
 
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Dataset](#dataset)
-- [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+- [Installation](#installation)
+
 
 ## Features
 
@@ -32,6 +31,16 @@ This repository contains a project for creating a Fake News Detection System usi
 
 The dataset used in this project is sourced from [Kaggle's Fake News dataset](https://www.kaggle.com/c/fake-news/data). It consists of various news articles labeled as either "real" or "fake."
 
+
+## Usage
+To use this project:
+
+**Data Preprocessing:** Clean and preprocess the dataset.
+**Model Training:** Train your machine learning model using the provided scripts.
+**Model Evaluation:** Evaluate model performance with validation data.
+**Prediction:** Predict whether a news article is real or fake using the trained model.
+
+
 ## Installation
 
 To get started, clone this repository and install the required dependencies:
@@ -42,4 +51,4 @@ cd fake-news-detection
 pip install -r requirements.txt
 ` ``` `
 
-## Usage
+
