@@ -30,6 +30,7 @@ This repository contains a project to create a fake news detection system using 
 ## Dataset
 
 The dataset used in this project is sourced from [Kaggle's Fake News dataset](https://www.kaggle.com/c/fake-news/data). It consists of various news articles labeled as either "real" or "fake."
+https://drive.google.com/drive/folders/1ByadNwMrPyds53cA6SDCHLelTAvIdoF_
 
 
 ## Usage
